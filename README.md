@@ -1,50 +1,51 @@
-# 👨‍💻 Hi, I'm Jorge Farfan
+# 👨‍💻 Jorge Farfan
 
-🚀 **Software Engineer** specialized in **Frontend Development** with strong experience in **JavaScript, Angular, and React**.  
-I’ve worked with companies and freelance projects, always focused on delivering quality solutions, collaborating in teams, and facing new challenges.
+**Software Engineer | Frontend Specialist**
 
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚡ Backend & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-
-### 🧪 Testing & Analytics
-
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)  
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)  
-![GA4](https://img.shields.io/badge/GA4-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+📚 Passionate about self-learning • ⚡ Sports lover to keep creativity flowing
 
 ---
 
-## 🌍 About Me
+## 🚀 Skills & Tech Stack
 
-- 👨‍💻 Experienced in **Angular, React, Node.js, and TypeScript**
-- 🤝 Team player & leadership mindset
-- 📚 Passionate about **self-learning** and growth
-- ⚡ I enjoy **sports** to keep balance and creativity
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 🏗 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgefarfan)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/georgefarfan)
+I'm a Software Engineer with strong experience in **JavaScript, Angular and React**.  
+I've worked in **companies and as a freelance developer**, always seeking to:
+
+- ✅ Be responsible and proactive
+- 🤝 Contribute as a team player
+- 🚀 Tackle new challenges with creativity
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgefarfan&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgefarfan&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgefarfan)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/georgefarfan)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white)](https://miperfil.vercel.app)
+
+---
+
+✨ _"Always learning, always building."_

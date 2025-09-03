@@ -1,3 +1,5 @@
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFU4EwymDeEcQ/profile-displaybackgroundimage-shrink_350_1400/B4DZWVEVD_HYAg-/0/1741962695804?e=1759968000&v=beta&t=80Cb_F5SCWlxQZLw41moWt_3ZKfKa9YAg9hVK6lqo6Q)
+
 # 👨‍💻 Software Engineer | Frontend Specialist
 
 Hi, I'm **Jorge Farfan** – a **Frontend Software Engineer** passionate about building scalable, user-friendly applications.  

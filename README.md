@@ -1,35 +1,20 @@
-# 👨‍💻 Jorge Farfan
+# 👨‍💻 Software Engineer | Frontend Specialist
 
-**Software Engineer | Frontend Specialist**
+Hi, I'm **Jorge Farfan** – a **Frontend Software Engineer** passionate about building scalable, user-friendly applications.  
+I enjoy working with modern technologies like **Angular, React, and TypeScript**, always aiming to deliver impactful solutions.
 
-📚 Passionate about self-learning • ⚡ Sports lover to keep creativity flowing
-
----
-
-## 🚀 Skills & Tech Stack
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)  
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+📚 **Self-learner** at heart, I constantly explore new tools and frameworks.  
+⚡ Outside of coding, I enjoy **sports to keep my mind clear and fuel creativity**.
 
 ---
 
-## 🏗 About Me
+## 🛠️ Skills
 
-I'm a Software Engineer with strong experience in **JavaScript, Angular and React**.  
-I've worked in **companies and as a freelance developer**, always seeking to:
-
-- ✅ Be responsible and proactive
-- 🤝 Contribute as a team player
-- 🚀 Tackle new challenges with creativity
+- **Frontend:** Angular, React, Vue.js, Redux, NgRx, RxJS, Ionic, NativeScript
+- **Backend:** Node.js, Express, NestJS, MongoDB
+- **Testing & Tools:** Cypress, Mocha, Google Analytics (GA4), Electron, Tauri
+- **Styling:** HTML, CSS, SASS
+- **Other:** jQuery, jQuery Mobile, Underscore
 
 ---
 
@@ -40,12 +25,9 @@ I've worked in **companies and as a freelance developer**, always seeking to:
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgefarfan)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/georgefarfan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white)](https://miperfil.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgefarfan)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/georgefarfan)
 
 ---
-
-✨ _"Always learning, always building."_

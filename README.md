@@ -1,5 +1,5 @@
 
-👨‍💻 Frontend Software Engineer | Frontend Architect
+# 👨‍💻 Frontend Software Engineer | Frontend Architect
 
 Hi, I’m Jorge Farfan, a Frontend Software Engineer & Frontend Architect focused on designing and building scalable, maintainable, and high-performance web applications.
 

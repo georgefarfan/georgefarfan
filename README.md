@@ -1,21 +1,23 @@
 
-# 👨‍💻 Software Engineer | Frontend Specialist
+👨‍💻 Frontend Software Engineer | Frontend Architect
 
-Hi, I'm **Jorge Farfan** – a **Frontend Software Engineer** passionate about building scalable, user-friendly applications.  
-I enjoy working with modern technologies like **Angular, React, and TypeScript**, always aiming to deliver impactful solutions.
+Hi, I’m Jorge Farfan, a Frontend Software Engineer & Frontend Architect focused on designing and building scalable, maintainable, and high-performance web applications.
 
-📚 **Self-learner** at heart, I constantly explore new tools and frameworks.  
-⚡ Outside of coding, I enjoy **sports to keep my mind clear and fuel creativity**.
+I specialize in modern frontend ecosystems such as Angular, React, and TypeScript, with a strong emphasis on architecture, best practices, and developer experience.
+
+📐 I enjoy defining frontend architectures, reusable patterns, and shared foundations for large applications.
+📚 A self-learner by nature, I constantly explore new tools, frameworks, and emerging frontend trends.
+⚡ Outside of coding, I practice sports to keep my mind sharp and fuel creativity.
 
 ---
 
 ## 🛠️ Skills
 
-- **Frontend:** Angular, React, Vue.js, Redux, NgRx, RxJS, Ionic, NativeScript
+- **Frontend:** Angular, React, Vue.js, Ionic, NativeScript
 - **Backend:** Node.js, Express, NestJS, MongoDB
-- **Testing & Tools:** Cypress, Mocha, Google Analytics (GA4), Electron, Tauri
-- **Styling:** HTML, CSS, SASS
-- **Other:** jQuery, jQuery Mobile, Underscore
+- **Testing & Tools:** Playwright, Cypress, Mocha, Google Analytics (GA4), Electron, Tauri
+- **Styling:** SASS, Tailwind
+- **AI & Productivity:** Prompt Engineering, Context Engineering, GitHub Copilot, Claude Agents
 
 ---
 
@@ -30,6 +32,6 @@ I enjoy working with modern technologies like **Angular, React, and TypeScript**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgefarfan)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/georgefarfan)
-[!][Web](https://jorge-farfan.vercel.app/en)
+
 
 ---

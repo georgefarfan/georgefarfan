@@ -1,4 +1,3 @@
-![Banner](https://cdn.mos.cms.futurecdn.net/QXcBRNeHkzXC6am5m3TXYf.jpg)
 
 # 👨‍💻 Software Engineer | Frontend Specialist
 
